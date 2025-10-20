@@ -8,13 +8,13 @@ A simple command-line interface (CLI) calculator built with Python that performs
 
 #Example
 
-Welcome to CLI Calculator!
+Welcome to CLI Calculator app!
 Enter first number: 5
 Enter second number: 3
 Operation (+,-,*,/): +
 Result: 5.0 + 3.0 = 8.0
-Continue? (yes/no): no
-Thank you for using the CLI Calculator!
+Do you want to perform another calculation? (yes/no): no
+Thank you for using the CLI Calculator app!
 
 
 
